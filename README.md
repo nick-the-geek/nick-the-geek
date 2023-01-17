@@ -1,4 +1,11 @@
 ### Hi there 👋
+Hi, I am Nick Dawson, a passionate quantitative researcher and data analyst.
+  
+- 🔭 I'm currently pursuing a doctoral degree in research methodology at University of Florida.
+- 🌱 I’m currently learning how to use R and GitHub
+- 😄 Pronouns: he/him/his
+- 📫 Feel free to reach out at nad2dn123@gmail.com
+
 
 <!--
 **nick-the-geek/nick-the-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
